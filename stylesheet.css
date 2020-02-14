@@ -1,0 +1,41 @@
+body {
+  font-family:'Haettenschweiler';
+}
+li{
+  style-type:disc;
+  float:left;
+  padding-left: 40px;
+}
+.header{
+  background-color: #00f;
+  height:50px;
+  color:#fff;
+}
+.header-logo{
+  font-size: 35px;
+  color:#fff;
+  float:left;
+  padding-left: 40px
+}
+.header-list{
+  font-size: 30px;
+}
+.copy-container{
+  color:red;
+}
+.contents h3{
+  border-bottom:1px solid black;
+}
+.contents-item{
+  float:left;
+  padding:10px 30px;
+}
+.contents-item p{
+  text-align:center
+}
+.contents{
+  height: 400px;
+}
+.section-title{
+  border-bottom:1px solid black;
+}
